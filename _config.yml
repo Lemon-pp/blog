@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: Serendipity
+subtitle: '不期而遇的美好'
+description: '记录自己成长的地方，迎接不期而遇的美好'
+keywords: Java、记录
+author: lemon
+language: zh-CN
 timezone: ''
 
 # URL
